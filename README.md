@@ -47,11 +47,11 @@ Command:
 grinder build
 ```
  
-#### Grind
+### Grind
  
 Grind is the task invoked by `build` before it adds the Sandstone the your project, this will get Sandstone dependency jar and grind it, the saved jar can be found in the working directory of grinder.
 
-#### Platform-specific
+### Platform-specific
 
 Grinder will add [SandstoneRuntime](https://github.com/ProjectSandstone/SandstoneRuntime) with all platform implementations, if you want to build platform-specific jars you should configure grinder in gradle or use the command below.
 
