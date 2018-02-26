@@ -21,7 +21,7 @@ Grinder is easy to use, it can be used as command line tool or integrated with G
 
 # Details
 
-Grinder only works with [SandstoneAPI](https://github.com/ProjectSandstone/SandstoneAPI) and does not supper [SandstoneCommon](https://github.com/ProjectSandstone/SandstoneCommon) features, the base implementation of the API used to be added to your jar is [SandstoneRuntime](https://github.com/ProjectSandstone/SandstoneRuntime).
+Grinder only works with [SandstoneAPI](https://github.com/ProjectSandstone/SandstoneAPI) and does not support [SandstoneCommon](https://github.com/ProjectSandstone/SandstoneCommon) features (like adapter), the base implementation of the API used to be added to your jar is [SandstoneRuntime](https://github.com/ProjectSandstone/SandstoneRuntime).
 
 # Under the hood
 
