@@ -17,7 +17,7 @@ Grinder breaks Sandstone into small pieces, removing things that you haven't use
 
 Grinder is easy to use, it can be used as command line tool or integrated with Gradle through `grinder integrate gradle`.
 
-## Fast (purpose, see #1)
+## Fast (purpose, see [#1](https://github.com/ProjectSandstone/Grinder/issues/1))
 
 # Details
 
